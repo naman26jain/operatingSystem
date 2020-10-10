@@ -1,0 +1,1 @@
+solution of reader writer program using c
